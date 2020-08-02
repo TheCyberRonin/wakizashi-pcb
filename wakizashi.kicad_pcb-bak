@@ -306,7 +306,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2667D7)
-    (at 433.07 -59.69 270)
+    (at 523.24 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E179)
@@ -359,7 +359,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2667B8)
-    (at 426.72 -59.69 270)
+    (at 516.89 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA89)
@@ -412,7 +412,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266799)
-    (at 420.37 -59.69 270)
+    (at 510.54 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF73)
@@ -465,7 +465,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26677A)
-    (at 414.02 -59.69 270)
+    (at 504.19 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F25E4B8)
@@ -518,7 +518,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26675B)
-    (at 407.67 -59.69 270)
+    (at 497.84 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E171)
@@ -571,7 +571,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26673C)
-    (at 401.32 -59.69 270)
+    (at 491.49 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA81)
@@ -624,7 +624,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26671D)
-    (at 394.97 -59.69 270)
+    (at 485.14 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF6B)
@@ -677,7 +677,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2666FE)
-    (at 388.62 -59.69 270)
+    (at 478.79 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F25D30A)
@@ -730,7 +730,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2666DF)
-    (at 382.27 -59.69 270)
+    (at 472.44 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E163)
@@ -783,7 +783,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2666C0)
-    (at 375.92 -59.69 270)
+    (at 466.09 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA73)
@@ -836,7 +836,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2666A1)
-    (at 369.57 -59.69 270)
+    (at 459.74 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF5D)
@@ -889,7 +889,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266682)
-    (at 363.22 -59.69 270)
+    (at 453.39 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F25C258)
@@ -942,7 +942,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266663)
-    (at 356.87 -59.69 270)
+    (at 447.04 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E155)
@@ -995,7 +995,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266644)
-    (at 350.52 -59.69 270)
+    (at 440.69 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA65)
@@ -1048,7 +1048,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266625)
-    (at 344.17 -59.69 270)
+    (at 434.34 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF4F)
@@ -1101,7 +1101,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266606)
-    (at 337.82 -59.69 270)
+    (at 427.99 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F25B36C)
@@ -1154,7 +1154,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2665E7)
-    (at 331.47 -59.69 270)
+    (at 421.64 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E147)
@@ -1207,7 +1207,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2665C8)
-    (at 325.12 -59.69 270)
+    (at 415.29 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA57)
@@ -1260,7 +1260,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2665A9)
-    (at 318.77 -59.69 270)
+    (at 408.94 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF41)
@@ -1313,7 +1313,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26658A)
-    (at 312.42 -59.69 270)
+    (at 402.59 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F259DDA)
@@ -1366,7 +1366,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26656B)
-    (at 307.34 -59.69 270)
+    (at 397.51 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E139)
@@ -1419,7 +1419,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26654C)
-    (at 300.99 -59.69 270)
+    (at 391.16 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA49)
@@ -1472,7 +1472,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26652D)
-    (at 294.64 -59.69 270)
+    (at 384.81 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF33)
@@ -1525,7 +1525,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26650E)
-    (at 288.29 -59.69 270)
+    (at 378.46 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F257F76)
@@ -1578,7 +1578,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2664EF)
-    (at 281.94 -59.69 270)
+    (at 372.11 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E12B)
@@ -1631,7 +1631,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2664D0)
-    (at 275.59 -59.69 270)
+    (at 365.76 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA3B)
@@ -1684,7 +1684,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2664B1)
-    (at 269.24 -59.69 270)
+    (at 359.41 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF25)
@@ -1737,7 +1737,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266492)
-    (at 262.89 -59.69 270)
+    (at 353.06 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F256FDC)
@@ -1790,7 +1790,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266473)
-    (at 256.54 -59.69 270)
+    (at 346.71 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E10F)
@@ -1843,7 +1843,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266454)
-    (at 250.19 -59.69 270)
+    (at 340.36 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA1F)
@@ -1896,7 +1896,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266435)
-    (at 243.84 -59.69 270)
+    (at 334.01 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF09)
@@ -1949,7 +1949,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266416)
-    (at 237.49 -59.69 270)
+    (at 327.66 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F254AD4)
@@ -2002,7 +2002,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2663F7)
-    (at 231.14 -59.69 270)
+    (at 321.31 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E101)
@@ -2055,7 +2055,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2663D8)
-    (at 224.79 -59.69 270)
+    (at 314.96 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA11)
@@ -2108,7 +2108,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2663B9)
-    (at 218.44 -59.69 270)
+    (at 308.61 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AEFB)
@@ -2161,7 +2161,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26639A)
-    (at 212.09 -59.69 270)
+    (at 302.26 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F25420C)
@@ -2214,7 +2214,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26637B)
-    (at 205.74 -59.69 270)
+    (at 295.91 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E0F3)
@@ -2267,7 +2267,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26635C)
-    (at 199.39 -59.69 270)
+    (at 289.56 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA03)
@@ -2320,7 +2320,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26633D)
-    (at 193.04 -59.69 270)
+    (at 283.21 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AEED)
@@ -2373,7 +2373,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F26631E)
-    (at 186.69 -59.69 270)
+    (at 276.86 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F2522A8)
@@ -2426,7 +2426,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2662FF)
-    (at 180.34 -59.69 270)
+    (at 270.51 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E0E5)
@@ -2479,7 +2479,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2662E0)
-    (at 173.99 -59.69 270)
+    (at 264.16 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28B9F5)
@@ -2532,7 +2532,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2662C1)
-    (at 167.64 -59.69 270)
+    (at 257.81 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AEDF)
@@ -2585,7 +2585,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F2662A2)
-    (at 161.29 -59.69 270)
+    (at 251.46 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F24DC41)
@@ -2638,7 +2638,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266283)
-    (at 154.94 -59.69 270)
+    (at 245.11 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F29E11D)
@@ -2691,7 +2691,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266264)
-    (at 148.59 -59.69 270)
+    (at 238.76 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F28BA2D)
@@ -2744,7 +2744,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266245)
-    (at 142.24 -59.69 270)
+    (at 232.41 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F27AF17)
@@ -2797,7 +2797,7 @@
   )
 
   (module Diode_THT:D_A-405_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5F266226)
-    (at 135.89 -59.69 270)
+    (at 226.06 -92.71 270)
     (descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5F2560F6)
